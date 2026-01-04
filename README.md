@@ -1,2 +1,2 @@
-# ESPORT-PORTAL
+# esports-platform
 Stage  d'etude L2
